@@ -13,7 +13,7 @@
   <a href="https://instagram.com/kofiagyarko.official"><img width="40px" alt="Instagram" title="Instagram" src="https://github.com/user-attachments/assets/b8a45192-a59c-4a16-8fa8-cfe974ffbc49"/></a>
 </p>
 
-I'm Solomon Oppong-Tachie Kofi Agyarko. I am a Graphic Designer, a content creator and a Data Analyst. My works are all about creativity, and commitment to mastering brand designs and identity enhancement. I am also a media personnel, worked for few firms in the religious sector and also for some few government companies in Accra. I enjoy art and music together. <a href="https://youtube.com/@muftydevelops" target="blank">
+I'm Solomon Oppong-Tachie Kofi Agyarko. I am a Graphic Designer, a content creator and a Data Analyst. My works are all about creativity, and commitment to mastering brand designs and identity enhancement. I am also a Media Personnel, worked for few firms in the religious sector and also for some few government companies in Accra. I enjoy art and music together. <a href="https://youtube.com/@muftydevelops" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
   </a>
   
@@ -35,9 +35,9 @@ I'm Solomon Oppong-Tachie Kofi Agyarko. I am a Graphic Designer, a content creat
     <img alt="Profile Views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-  <h4>MY Tech Stack</h4>
+  <h4>My Tools</h4>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,nodejs,npm,express,postgres,dart,python,java," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,photoshop,figma,js,illustrator,canva,Anaconda,jupyter,capcut,python,java" alt="Tech Stack" />
 </div>
 
 <!-- BEGIN YOUTUBE-CARDS -->
