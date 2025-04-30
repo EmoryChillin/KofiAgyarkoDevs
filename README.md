@@ -11,8 +11,7 @@
   <a href="https://instagram.com/kofiagyarko.official"><img width="40px" alt="Instagram" title="Instagram" src="https://github.com/user-attachments/assets/b8a45192-a59c-4a16-8fa8-cfe974ffbc49"/></a>
 </p>
 
-I'm Solomon Oppong-Tachie Kofi Agyarko. I am a Graphic Designer, a content creator and a Data Analyst. My works are all about creativity, and commitment to mastering brand designs and identity enhancement. I am also a Media Personnel, worked for few firms in the religious sector and also for some few government companies in Accra. I enjoy art and music together. <a href="https://youtube.com/@muftydevelops" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
+I'm Solomon Oppong-Tachie Kofi Agyarko. I am a Graphic Designer, a content creator and a Data Analyst. My works are all about creativity, and commitment to mastering brand designs and identity enhancement. I am also a Media Personnel, worked for few firms in the religious sector and also for some few government companies in Accra. I enjoy art and music together.
   </a>
   
 ---
@@ -27,7 +26,7 @@ I'm Solomon Oppong-Tachie Kofi Agyarko. I am a Graphic Designer, a content creat
 
   <h4>My Tools</h4>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,photoshop,figma,js,illustrator,canva,Anaconda,capcut,python,java" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,photoshop,figma,js,illustrator,python,java" alt="Tech Stack" />
 </div>
 
 
